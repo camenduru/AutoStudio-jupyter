@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AutoStudio-jupyter/blob/main/AutoStudio_jupyter.ipynb) | AutoStudio_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/AutoStudio-jupyter/blob/main/AutoStudio_jupyter.ipynb) | AutoStudio_jupyter (Pro Colab 😭 >15GB VRAM)
 
 ### 🧬 Code
 https://github.com/donahowe/AutoStudio
