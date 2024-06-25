@@ -22,8 +22,10 @@ https://howe183.github.io/AutoStudio.io/
 ![img0_25step](https://github.com/camenduru/AutoStudio-jupyter/assets/54370274/4fd156cb-e217-4dec-9fcf-e10155a7debe)
 ![boxes](https://github.com/camenduru/AutoStudio-jupyter/assets/54370274/825b79d6-606d-477e-9db9-ac242057784f)
 ![img0_25step](https://github.com/camenduru/AutoStudio-jupyter/assets/54370274/5fab8cca-a6ef-48b2-93e8-cdc5eefe24ae)
-![boxes](https://github.com/camenduru/AutoStudio-jupyter/assets/54370274/f2185c5e-b681-4396-a8de-cb081afa56b7)
-![img1_25step](https://github.com/camenduru/AutoStudio-jupyter/assets/54370274/2ea70a25-dfdb-4a0c-b0e0-b39b30c87088)
+![boxes](https://github.com/camenduru/AutoStudio-jupyter/assets/54370274/76ec7933-2fed-424d-892b-4ed9d3142e90)
+![img1_25step](https://github.com/camenduru/AutoStudio-jupyter/assets/54370274/73281898-13d6-4319-ac36-c6c88f344b4f)
+
+
 
 ### 🏢 Sponsor
 https://runpod.io
